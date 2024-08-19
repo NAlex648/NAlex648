@@ -1,9 +1,16 @@
 ## README 👋
 Hello, welcome to my Git page. I post some of my public repositories here where you can view my past random/miscellaneous projects, feel free to sightsee here
-## About Me
+## About Me 😄
 - Currently an undergraduate Cyber Security major student
 - Likes to learn new and random things
 - Plays CTF regularly
+## Contact Me? 🤔
+Linkedin:
+https://www.linkedin.com/in/nicholas-alexander-74b468269/
+Instagram:
+https://www.instagram.com/nicholasalexander648second/
+Discord:
+.alex648 (Alex648#7498)
 ## Work Experience
 1. 6 Months at SuperMap GIS
 2. Currently working at DRX Asia
