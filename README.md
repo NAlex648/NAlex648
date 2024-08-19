@@ -1,4 +1,6 @@
-<img src="https://github.com/NAlex648/NAlex648/blob/main/Images/DaddyHarto.jpeg" alt="Profile Picture" width="100%"/>
+<div align="center">
+  <img src="https://github.com/NAlex648/NAlex648/blob/main/Images/DaddyHarto.jpeg" alt="Profile Picture"/>
+</div>
 
 ## README 👋
 Hello, welcome to my Git page. I post some of my public repositories here where you can view my past random/miscellaneous projects, feel free to sightsee here
