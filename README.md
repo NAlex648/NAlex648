@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/NAlex648/NAlex648/blob/main/Images/DaddyHarto.jpeg" alt="Profile Picture"/>
+  <img src="https://github.com/NAlex648/NAlex648/blob/main/Images/DaddyHarto.jpeg" alt="Profile Picture"/><img src="https://github.com/NAlex648/NAlex648/blob/main/Images/DaddyHarto.jpeg" alt="Profile Picture2"/>
 </div>
 
 ## README 👋
