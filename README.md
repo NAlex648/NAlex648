@@ -18,6 +18,9 @@ https://www.instagram.com/nicholasalexander648second/
 *Discord:*
 
 .alex648 (Alex648#7498)
+## Certifications
+- ISC2 - Certified in Cybersecurity (CC)
+- TBD
 ## Work Experience 💼
 1. 6 Months at SuperMap GIS
 2. Currently working at DRX Asia
