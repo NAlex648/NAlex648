@@ -24,8 +24,8 @@ https://www.instagram.com/nicholasalexander648second/
 - ISC2 - Certified in Cybersecurity (CC)
 - TBD
 ## Work Experience 💼
-1. 6 Months at SuperMap GIS
-2. Currently working at DRX Asia
+1. SuperMap GIS (February 2024 ~ June 2024)
+2. DRX Asia (July 2024 ~ Present)
 <!--
 **NAlex648/NAlex648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
