@@ -1,7 +1,7 @@
 <img src="https://github.com/NAlex648/NAlex648/blob/main/Images/DaddyHarto.jpeg" alt="Profile Picture" width="100%"/>
+
 <audio controls>
   <source src="https://github.com/NAlex648/NAlex648/blob/main/Images/LilSalmonela-RatnaA.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
 </audio>
 
 ## README 👋
