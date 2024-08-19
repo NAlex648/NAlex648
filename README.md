@@ -18,7 +18,7 @@ https://www.instagram.com/nicholasalexander648second/
 *Discord:*
 
 .alex648 (Alex648#7498)
-## Certifications
+## Certifications 📜
 - ISC2 - Certified in Cybersecurity (CC)
 - TBD
 ## Work Experience 💼
