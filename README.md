@@ -1,5 +1,12 @@
-## Hi there 👋
-Hello MFs
+## README 👋
+Hello, welcome to my Git page. I post some of my public repositories here where you can view my past random/miscellaneous projects, feel free to sightsee here
+## About Me
+- Currently an undergraduate Cyber Security major student
+- Likes to learn new and random things
+- Plays CTF regularly
+## Work Experience
+1. 6 Months at SuperMap GIS
+2. Currently working at DRX Asia
 <!--
 **NAlex648/NAlex648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
