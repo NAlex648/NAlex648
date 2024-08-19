@@ -6,12 +6,15 @@ Hello, welcome to my Git page. I post some of my public repositories here where 
 - Plays CTF regularly
 ## Contact Me? 🤔
 Linkedin:
+
 https://www.linkedin.com/in/nicholas-alexander-74b468269/
 
 Instagram:
+
 https://www.instagram.com/nicholasalexander648second/
 
 Discord:
+
 .alex648 (Alex648#7498)
 ## Work Experience
 1. 6 Months at SuperMap GIS
