@@ -8,18 +8,6 @@ Hello, welcome to my Git page. I post some of my public repositories here where 
 - Currently an undergraduate Cyber Security major student
 - Likes to learn new and random things
 - Plays CTF regularly
-## Contact Me? 🤔
-*Linkedin:*
-
-https://www.linkedin.com/in/nicholas-alexander-74b468269/
-
-*Instagram:*
-
-https://www.instagram.com/nicholasalexander648second/
-
-*Discord:*
-
-.alex648 (Alex648#7498)
 ## Certifications 📜
 - ISC2 - Certified in Cybersecurity (CC)
 - TBD
