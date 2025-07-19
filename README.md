@@ -13,7 +13,7 @@ Hello, welcome to my Git page. I post some of my public repositories here where 
 - TBD
 ## Work Experience 💼
 1. SuperMap GIS (February 2024 ~ July 2024)
-2. DRX Asia (July 2024 ~ Present)
+2. DRX Asia (July 2024 ~ February 2025)
 <!--
 **NAlex648/NAlex648** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
